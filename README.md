@@ -36,18 +36,18 @@ O DevRadar trata-se de uma aplicação que exibe em um mapa, com base na geoloca
 
 Abaixo são listadas as tecnologias utilizadas no desenvolvimento do DevRadar:
 
-- [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
+- [Node.js;](https://nodejs.org/en/)
+- [React;](https://reactjs.org)
+- [React Native;](https://facebook.github.io/react-native/)
+- [Expo.](https://expo.io/)
 
 ## Instruções
 
 ### Pré-requisitos
 Antes de começar a rodar o projeto no seu computador ou smartphone, é necessário que realize os seguintes items:
-- [Instalar o Node.js](https://nodejs.org/en/download/)
-- [Instalar o Yarn](https://legacy.yarnpkg.com/lang/pt-br/docs/install/)
-- [Criar um cluster gratuito no MongoDB](https://www.mongodb.com/)
+- [Instalar o Node.js;](https://nodejs.org/en/download/)
+- [Instalar o Yarn;](https://legacy.yarnpkg.com/lang/pt-br/docs/install/)
+- [Criar um cluster gratuito no MongoDB.](https://www.mongodb.com/)
 
 ### Instalação - Backend
 Configure o MongoDB e atualize a string de conexão, fornecida nas configurações de conexão do seu cluster, com seu `User:Senha` no arquivo `index.js`.
