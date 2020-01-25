@@ -17,8 +17,8 @@
 <p align="center">
   <a href="#devradar">DevRadar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#utilizando">Utilizando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#instruções">Instruções</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#licença">Licença</a>
 </p>
 
 <br>
@@ -41,7 +41,7 @@ Abaixo são listadas as tecnologias utilizadas no desenvolvimento do DevRadar:
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
-## Utilizando
+## Instruções
 
 ### Pré-requisitos
 Antes de começar a rodar o projeto no seu computador ou smartphone, é necessário que realize os seguintes items:
@@ -65,7 +65,7 @@ cd frontend
 yarn install
 yarn start
 ```
-Assim que o processo terminar, automaticamente será aberta no seu navegador a página localhost:3000 contendo o projeto web.
+Assim que o processo terminar, automaticamente será aberta no seu navegador a página `localhost:3000` contendo o projeto web.
 
 ### Mobile
 Para ver a aplicação mobile com o React Native primeiro é necessário colocar o IP do seu servidor (ou computador) no arquivo `src/services/api.js`, e depois executar os comandos:
