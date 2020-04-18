@@ -3,12 +3,12 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/JV-Amorim/DevRadar_OmniStack">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/JV-Amorim/DevRadar_OmniStack10">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/JV-Amorim/DevRadar_OmniStack">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/JV-Amorim/DevRadar_OmniStack10">
   
-  <a href="https://github.com/JV-Amorim/DevRadar_OmniStack/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JV-Amorim/DevRadar_OmniStack">
+  <a href="https://github.com/JV-Amorim/DevRadar_OmniStack10/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JV-Amorim/DevRadar_OmniStack10">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -18,6 +18,7 @@
   <a href="#devradar">DevRadar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#instruções">Instruções</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#notas">Notas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#licença">Licença</a>
 </p>
 
@@ -80,6 +81,10 @@ Assim que o processo terminar, automaticamente será aberta no seu navegador a p
 
 ### Insomnia 
 Para testar a API do DevRadar, baixe e instale o [Insomnia](https://insomnia.rest/download/) e em seguida clique na Workspace → `Import/Export` → `Import Data` → `From File` → e selecione o arquivo ` 	insomnia_export.json` deste repositório.
+
+## Notas
+
+Caso deseje saber mais sobre o desenvolvimento de projetos fullstack utilizando Node.js, React e React Native, você pode conferir um dos meus arquivos de notas, clicando [aqui](https://gist.github.com/JV-Amorim/15759e90cd7899bef10030be69fc262b).
 
 ## Licença
 
